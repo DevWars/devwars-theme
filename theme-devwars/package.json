@@ -1,0 +1,19 @@
+{
+	"name": "theme-devwars",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Devwars",
+				"uiTheme": "vs-dark",
+				"path": "./themes/devwars-color-theme.json"
+			}
+		]
+	}
+}
