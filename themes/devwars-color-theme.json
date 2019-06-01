@@ -16,15 +16,16 @@
 
         "editor.background": "#0b0c11",
         "editor.foreground": "#fff",
-        "editor.selectionBackground": "#57647a26",
-        "editor.wordHighlightBackground": "#58657a26",
-        "editor.wordHighlightStrongBackground": "#57647a26",
-        "editor.selectionHighlightBackground": "#57647a26",
+        "editor.selectionBackground": "#2a313c",
+        "editor.wordHighlightBackground": "#2a313c",
+        "editor.wordHighlightStrongBackground": "#2a313c",
         "editorLineNumber.foreground": "#fff",
         "editorLineNumber.activeForeground": "#57647a80",
-        "editorGutter.background": "#0b0c11",
+        
         "editorGroupHeader.tabsBackground": "#0b0c11",
         "editorGroupHeader.tabsBorder": "#0b0c11",
+        "editor.renderIndentGuides": false,
+        "editor.renderLineHighlight": "none",
 
         "activityBar.background": "#0b0c11",
         "activityBar.border": "#303745",
