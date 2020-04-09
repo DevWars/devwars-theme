@@ -1,5 +1,6 @@
 # DevWars Theme - VS Code
-![DevWars Theme Banner](./banner.png)
+
+![DevWars Theme Banner](static/banner.png)
 
 A Visual Studio Code theme for all the DevWars fans out there. ✨
 
