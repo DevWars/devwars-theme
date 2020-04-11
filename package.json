@@ -2,20 +2,26 @@
     "name": "devwars-theme",
     "displayName": "DevWars",
     "description": "DevWars theme for Visual Studio Code",
-    "version": "1.0.0",
-    "publisher": "DevWars, LLC",
+    "icon": "icon.png",
+    "version": "1.0.3",
+    "publisher": "DevWars",
     "repository": {
         "type": "git",
         "url": "https://github.com/DevWars/devwars-theme"
     },
+    "homepage": "https://github.com/DevWars/devwars-theme",
     "keywords": [
         "Theme",
         "Dark Theme",
         "DevWars",
         "DevWars Theme"
-      ],
+    ],
+    "galleryBanner": {
+        "color": "#191919",
+        "theme": "dark"
+    },
     "engines": {
-        "vscode": "*"
+        "vscode": "^1.42.0"
     },
     "categories": [
         "Themes"
